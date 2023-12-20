@@ -33,4 +33,4 @@ Todo List é um projeto onde você consegue gerenciar adicionando, removendo sua
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MI
+Esse projeto está sob a licença MIT
